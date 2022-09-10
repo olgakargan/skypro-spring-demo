@@ -10,5 +10,4 @@ public class CalculatorApplication {
 
         SpringApplication.run(SkyproSpringDemoApplication.class, args);
     }
-
 }
